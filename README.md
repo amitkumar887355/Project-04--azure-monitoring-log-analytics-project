@@ -1,5 +1,7 @@
 # Project-04--azure-monitoring-log-analytics-project
 
+Centralized monitoring solution with Azure Monitor Diagnostic Settings collecting logs from Virtual Machines deployed across Central India and East US. Logs are sent to Log Analytics Workspace, Event Hub, Azure Stream Analytics, and Storage Account for monitoring, analysis, and archival.
+
 # Azure Monitoring, Log Analytics, Event Hub & Stream Analytics Project
 
 ## Project Overview
